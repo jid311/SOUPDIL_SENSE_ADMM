@@ -2,4 +2,4 @@ To run demo_SOUPDIL_SENSE_ADMM, you should download SPIRiT_v0.3 at https://peopl
 
 
 If you use this code, please cite the following paper:
-DUAN Jizhong, SU Yan, Improved Sensitivity Encoding Parallel MRI Reconstruction Algorithm based on Efficient Sum of Outer Products Dictionary Learning
+DUAN Jizhong, SU Yan, Improved Sensitivity Encoding Parallel MRI Reconstruction Algorithm based on Efficient Sum of Outer Products Dictionary Learning, Journal of Shanghai Jiao Tong University (Science) (In Review)
